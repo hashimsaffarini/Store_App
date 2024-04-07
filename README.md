@@ -1,5 +1,5 @@
-## Flutter Store App
-# Overview
+# Flutter Store App
+## Overview
 This Flutter application enhances the shopping experience by offering admin functionalities for product management and a seamless user interface for customers to browse products. It features an easy-to-navigate layout, ensuring both admin and customer satisfaction.
 
 ## Features
